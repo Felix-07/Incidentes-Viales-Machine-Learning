@@ -86,4 +86,7 @@ El proyecto consiste en la aplicación de un método  con procedimientos especí
 ## Notas
 * Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos dentro del código. Si se desea ver las graficas y mapas puede ejecutar el [Jupyter notebook versión Colab](  ).
 
-* Se puede vizualizar el [mapa]( ) los regiones de alta densidad de incidentes viales en superposición con las rutas y vias principales de transporte publico. 
+* Se puede vizualizar los mapas:
+
+    [Mapa 1](https://felix-07.github.io/Incidentes-Viales-Machine-Learning/mapa_vias_alto_indice.html) Las regiones y las vias e alta densidad de incidentes viales en superposición con las rutas y vias principales de transporte publico. 
+    
