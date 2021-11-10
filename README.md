@@ -90,3 +90,9 @@ El proyecto consiste en la aplicación de un método  con procedimientos especí
 
     [Mapa 1](https://felix-07.github.io/Incidentes-Viales-Machine-Learning/mapa_vias_alto_indice.html) Las regiones y las vias e alta densidad de incidentes viales en superposición con las rutas y vias principales de transporte publico. 
     
+    [Mapa 2](https://felix-07.github.io/Incidentes-Viales-Machine-Learning/mapa_accidentes_ciclistas.html) Mapa de los accidentes que involucran ciclistas.
+    
+    [Mapa 3](https://felix-07.github.io/Incidentes-Viales-Machine-Learning/mapa_accidentes_motociclistas.html) Mapa de los accidentes que involucran motociclistas.
+    
+    [Mapa 4](https://felix-07.github.io/Incidentes-Viales-Machine-Learning/mapa_atropellados.html) Mapa de los accidentes que involucran un atropellado con descenso.
+    
