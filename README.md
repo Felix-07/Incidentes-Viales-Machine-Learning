@@ -84,7 +84,7 @@ El proyecto consiste en la aplicación de un método  con procedimientos especí
 
 
 ## Notas
-* Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos dentro del código. Si se desea ver las graficas y mapas puede ejecutar el [Jupyter notebook versión Colab](  ).
+* Debido a la naturaleza de GitHub no es posible mostrar las graficas y mapas interactivos dentro del código. Si se desea ver las graficas y mapas puede ejecutar el [Jupyter notebook versión Colab](https://colab.research.google.com/gist/Felix-07/cdae39b0c39bbca68bae5c3006896cc9/proyecto-final-final.ipynb  ).
 
 * Se puede vizualizar los mapas:
 
