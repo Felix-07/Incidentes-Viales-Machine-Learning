@@ -28,12 +28,6 @@ El proyecto consiste en la aplicación de un método  con procedimientos especí
 
 0. Librerías
 
-    0.1 Instalación de librerías
-
-    0.2 Librerías utilizadas
-
-0. Librerías
-
   0.1 Instalación de librerías
 
   0.2 Librerías utilizadas
